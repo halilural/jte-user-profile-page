@@ -3,7 +3,6 @@ package com.uralhalil.jte.demo;
 import gg.jte.TemplateEngine;
 import gg.jte.output.Utf8ByteOutput;
 import org.springframework.http.MediaType;
-import org.springframework.web.servlet.support.RequestContext;
 import org.springframework.web.servlet.view.AbstractTemplateView;
 
 import javax.servlet.http.HttpServletRequest;
