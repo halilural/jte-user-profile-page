@@ -1,4 +1,4 @@
-package gg.jte.demo;
+package com.uralhalil.jte.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

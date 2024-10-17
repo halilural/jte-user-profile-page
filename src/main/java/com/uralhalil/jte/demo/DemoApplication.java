@@ -1,4 +1,4 @@
-package gg.jte.demo;
+package com.uralhalil.jte.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

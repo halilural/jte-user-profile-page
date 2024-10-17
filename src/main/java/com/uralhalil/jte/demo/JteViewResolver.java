@@ -1,4 +1,4 @@
-package gg.jte.demo;
+package com.uralhalil.jte.demo;
 
 import gg.jte.TemplateEngine;
 import org.springframework.web.servlet.view.AbstractTemplateViewResolver;

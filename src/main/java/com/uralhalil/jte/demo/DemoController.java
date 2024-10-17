@@ -1,4 +1,4 @@
-package gg.jte.demo;
+package com.uralhalil.jte.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -29,6 +29,6 @@ public class DemoController {
         visitsRepository.add();
 
         model.addAttribute("model", new DemoModel("mystérieux visiteur", visitsRepository.get()));
-        return "demo";
+        return "profile";
     }
 }

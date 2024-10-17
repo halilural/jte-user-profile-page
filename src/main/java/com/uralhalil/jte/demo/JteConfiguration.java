@@ -1,4 +1,4 @@
-package gg.jte.demo;
+package com.uralhalil.jte.demo;
 
 import gg.jte.CodeResolver;
 import gg.jte.ContentType;
